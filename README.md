@@ -19,6 +19,11 @@
 
 TravianZ Version **v.8.3.5**
 ======
+
+## Companion App: The Quest of Love
+
+Looking for a modern relationship-focused quest tracker? See [`docs/quest-of-love.md`](docs/quest-of-love.md) for an overview of the **Quest of Love** app, including features, role flows, and technical architecture.
+
 **Note:** this game is still in a pre-release state, although at this point it is very playable, tested and found to be fairly stable
 
 **WARNING:** please note that ***this is in no way an upgrade*** from the old 8.3.2 version, so please ***do not try to just copy your files over***, 
